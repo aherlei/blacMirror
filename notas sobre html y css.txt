@@ -1,0 +1,6 @@
+notas sobre html y css 
+barra de navegacion - navbar
+hero section - es un escaparate: imagen, visor, video
+secciones intermedias (introduccion , quienes somos, testimosnios, productos, contacto, etc)
+footer: contacto, redes sociales, autor, barra de navegacion
+
